@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1035473215274",
+    "firebase_url": "https://minipixtory.firebaseio.com",
+    "project_id": "minipixtory",
+    "storage_bucket": "minipixtory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035473215274:android:85deec9b625f74bd",
+        "android_client_info": {
+          "package_name": "sample.com.minipixtory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035473215274-c4c2oc04rf8590s46rq1f9b7oshjoauo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwP9mzTu8Y_UuHFHUPArzx56YtZ1Scew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
